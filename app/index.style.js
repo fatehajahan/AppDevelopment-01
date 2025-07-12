@@ -6,7 +6,7 @@ const style = StyleSheet.create({
         flex: 1,
         padding: 20
     },
-
+   
     // registration box
     registrationBox: {
         backgroundColor: "#EEEFE0",

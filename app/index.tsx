@@ -22,7 +22,7 @@ export default function Index() {
         <TextInput style={styles.regName} placeholder="Enter your Email"
           keyboardType="email-address"
           autoCapitalize="none" />
-
+   
         {/* password */}
         <TextInput style={styles.regName} placeholder="Enter your Password" secureTextEntry
           autoCapitalize="none" />
